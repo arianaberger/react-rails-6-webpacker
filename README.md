@@ -1,0 +1,1 @@
+# react-rails-6-webpacker
